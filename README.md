@@ -14,4 +14,3 @@ Some of the key features and functionalities of the fs module include:
 - File permissions: The fs module allows you to modify file permissions using methods like `fs.chmod()` and `fs.chown()`.
 - Stream-based file operations: The fs module provides streaming APIs for reading and writing files, allowing efficient handling of large files.
 
-Overall, the fs module in Node.js provides a comprehensive set of APIs for file system operations, making it easy to work with files and directories in your Node.js applications.
